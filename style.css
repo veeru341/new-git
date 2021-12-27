@@ -3,20 +3,20 @@ body {
   padding: 0;
   min-height: 100vh;
   width: 100vw;
-  //font-family: Sen, sans-serif;
-  //letter-spacing: 2px;
+  font-family: Sen, sans-serif;
+  letter-spacing: 2px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: #EAF4F6;
+  background-color: #eaf4f6;
   background-size: cover;
   background-position: center;
 }
 
 .container {
   width: 360px;
-  background: #EAF4F6;
+  background: #eaf4f6;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -39,13 +39,13 @@ input {
   outline: none;
   box-sizing: border-box;
   transition: all 0.3s;
-  background: #EAF4F6;
+  background: #eaf4f6;
 }
 
 button {
   cursor: pointer;
   color: white;
-  background-color: #142DC3;
+  background-color: #142dc3;
   border: none;
   border-radius: 5px;
   height: 40px;
@@ -75,51 +75,51 @@ button:focus {
   justify-content: center;
   color: black;
 }
-.form-group>label{
+.form-group > label {
   padding-left: 5px;
   padding-right: 5px;
-  position:relative;
-  top:10px;
+  position: relative;
+  top: 10px;
   left: 10px;
-  background: #EAF4F6;
+  background: #eaf4f6;
   font-size: 11px;
 }
-h2{
-	font-weight: bold;
+h2 {
+  font-weight: bold;
 }
-p{
-	margin-top: -15px;
-	font-size: 11px;
+p {
+  margin-top: -15px;
+  font-size: 11px;
 }
-#form{
-	margin-top: 40px;
+#form {
+  margin-top: 40px;
 }
 ::placeholder {
   position: relative;
   left: 8px;
 }
-.foot{
-	margin-top: 50px;
-	font-size: 13px;
+.foot {
+  margin-top: 50px;
+  font-size: 13px;
 }
-#togglePassword{
-	position: absolute;
-	margin-left: -30px;
-	margin-top: 12px;
+#togglePassword {
+  position: absolute;
+  margin-left: -30px;
+  margin-top: 12px;
 }
-input[type="radio"]{
+input[type="radio"] {
   width: 5%;
   font-size: 10px;
 }
-.forget{
+.forget {
   font-size: 14px;
   margin-top: 17px;
   margin-left: 80px;
 }
-.formfooter{
+.formfooter {
   display: flex;
 }
-.loggedin{
-    margin-top: 17px;
-    font-size: 14px;
+.loggedin {
+  margin-top: 17px;
+  font-size: 14px;
 }
