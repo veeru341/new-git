@@ -119,7 +119,3 @@ input[type="radio"] {
 .formfooter {
   display: flex;
 }
-.loggedin {
-  margin-top: 17px;
-  font-size: 14px;
-}
